@@ -59,8 +59,9 @@
 
 ### Calificaciones de los Retos
 
-Reto | Publicado | Entrega  | Título            | Calificación| Observaciones          |
----- |-----------|----------|-------------------|-------------|------------------------|
-  1  | 12/03/25  | 16/03/25 | Adivina el número | 90          |Aun no vemos Excepciones|
-  2  | 19/03/25  | 23/03/25 | Inventario        | 100         |Excelente trabajo       |
+Reto | Publicado | Entrega  | Título            | Calificación| Retroalimentación              |
+---- |-----------|----------|-------------------|-------------|--------------------------------|
+  1  | 12/03/25  | 16/03/25 | Adivina el número | 90          |Aun no vemos Excepciones        |
+  2  | 19/03/25  | 23/03/25 | Inventario        | 100         |Excelente trabajo               |
+  3  | 26/03/25  | 31/03/25 | Gestión Biblioteca|             |                                |
 
