@@ -1,0 +1,34 @@
+{
+  "usuariosbd": [
+    {
+      "id": 1,
+      "Nombre": "Dulce Rubi Barragan",
+      "Edad": 20,
+      "RFC": "DUL90E6YOPRXT"
+    },
+    {
+      "id": 2,
+      "Nombre": "Elsi Abril Mendez ",
+      "Edad": 17,
+      "RFC": "ELSI93BP7UY12"
+    },
+    {
+      "id": 3,
+      "Nombre": "Alison Cecilia Alnso",
+      "Edad": 22,
+      "RFC": "CECI9OP97YVNL"
+    },
+    {
+      "id": 4,
+      "Nombre": "Martin Marquez J",
+      "Edad": 16,
+      "RFC": "MAR5Y78KP08BF"
+    },
+    {
+      "id": 5,
+      "Nombre": "Marco Antonio Garcia",
+      "Edad": 30,
+      "RFC": "MART9OP7BUOMB"
+    }
+  ]
+}
